@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+My name is Natalie Chow, one of the many Natalie Chows in the world.
+
+[GitHub page](https://lanternal.github.io)
 
 ### More Information
 
